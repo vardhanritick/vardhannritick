@@ -1,12 +1,28 @@
-# Hi 👋, I'm Ritick Sharma
+<!-- ==================== BANNER ==================== -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=10jPfgwzeibxchnCP2D3Nr7lYVgJqcuQb" alt="Banner" width="100%" />
+</p>
 
-🎓 B.Tech Student  
-💻 Passionate about Programming and Web Development  
-🌱 Currently learning C, HTML, and Problem Solving  
+<!-- ==================== INTRO ==================== -->
+<h1 align="center">Hi 👋, I'm Ritick Sharma</h1>
+
+<p align="center">
+🎓 B.Tech Student | 💻 Aspiring Developer | 🌱 Learning C & Web Development
+</p>
 
 ---
 
-## 🚀 Skills
+<!-- ==================== ABOUT ME ==================== -->
+## 🚀 About Me
+- 🔭 Currently working on improving C programming
+- 🌱 Learning HTML & CSS
+- 💡 Interested in Software Development
+- 📚 Love solving logical problems
+
+---
+
+<!-- ==================== SKILLS ==================== -->
+## 🛠 Skills
 - C Programming
 - HTML
 - Basic CSS
@@ -14,16 +30,15 @@
 
 ---
 
-## 📚 Currently Working On
-- Improving C programming concepts
-- Building small projects
-- Learning Data Structures
+<!-- ==================== GITHUB STATS ==================== -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vardhannritick&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/vardhannritick
-
----
-
-⭐ “Practice makes perfect in coding.”
+<!-- ==================== FOOTER ==================== -->
+<p align="center">
+⭐ Keep Learning | Keep Growing ⭐
+</p>
